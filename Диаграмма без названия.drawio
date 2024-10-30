@@ -1,40 +1,40 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Страница — 1" id="teUTR_1bAflxa2XqvtZt">
-    <mxGraphModel dx="1193" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmzVkfAbV9qrxrZt4hye-1">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmzVkfAbV9qrxrZt4hye-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-1" value="Потребность&amp;nbsp;&lt;div&gt;в закупке&lt;/div&gt;" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" vertex="1" parent="1">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-1" value="Потребность&amp;nbsp;&lt;div&gt;в закупке&lt;/div&gt;" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" parent="1" vertex="1">
           <mxGeometry x="40" y="155" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmzVkfAbV9qrxrZt4hye-5">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmzVkfAbV9qrxrZt4hye-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="334" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-5" value="Заводит карточку к\а в Битрикс24" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=user;" vertex="1" parent="1">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-5" value="Заводит карточку к\а в Битрикс24" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=user;" parent="1" vertex="1">
           <mxGeometry x="150" y="140" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EmzVkfAbV9qrxrZt4hye-11" target="EmzVkfAbV9qrxrZt4hye-41">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EmzVkfAbV9qrxrZt4hye-11" target="EmzVkfAbV9qrxrZt4hye-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-11" value="Битрикс24: Аутентификация&amp;nbsp;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=service;" vertex="1" parent="1">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-11" value="Битрикс24: Аутентификация&amp;nbsp;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=service;" parent="1" vertex="1">
           <mxGeometry x="330" y="140" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-12" value="Протокол&amp;nbsp;&lt;div&gt;OAuth 2.0&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.bpmn.data;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;size=15;html=1;" vertex="1" parent="1">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-12" value="Протокол&amp;nbsp;&lt;div&gt;OAuth 2.0&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.bpmn.data;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;size=15;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="30" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EmzVkfAbV9qrxrZt4hye-11" target="EmzVkfAbV9qrxrZt4hye-12">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EmzVkfAbV9qrxrZt4hye-11" target="EmzVkfAbV9qrxrZt4hye-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="EmzVkfAbV9qrxrZt4hye-41">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="EmzVkfAbV9qrxrZt4hye-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="220" as="sourcePoint" />
             <mxPoint x="70" y="370" as="targetPoint" />
@@ -45,17 +45,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-22" value="GET" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EmzVkfAbV9qrxrZt4hye-19">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-22" value="GET" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EmzVkfAbV9qrxrZt4hye-19" vertex="1" connectable="0">
           <mxGeometry x="0.9032" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-42" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EmzVkfAbV9qrxrZt4hye-19">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-42" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EmzVkfAbV9qrxrZt4hye-19" vertex="1" connectable="0">
           <mxGeometry x="-0.7725" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EmzVkfAbV9qrxrZt4hye-41" target="EmzVkfAbV9qrxrZt4hye-39">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EmzVkfAbV9qrxrZt4hye-41" target="EmzVkfAbV9qrxrZt4hye-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="140" as="sourcePoint" />
             <mxPoint x="590" y="45" as="targetPoint" />
@@ -64,52 +64,52 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-43" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EmzVkfAbV9qrxrZt4hye-18">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-43" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EmzVkfAbV9qrxrZt4hye-18" vertex="1" connectable="0">
           <mxGeometry x="-0.387" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmzVkfAbV9qrxrZt4hye-20">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmzVkfAbV9qrxrZt4hye-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-20" value="&amp;nbsp;Битрикс24: HTTPS-запрос к API Контур.Фокус" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=service;" vertex="1" parent="1">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-20" value="&amp;nbsp;Битрикс24: HTTPS-запрос к API Контур.Фокус" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=service;" parent="1" vertex="1">
           <mxGeometry x="10" y="370" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-29" value="Документация&amp;nbsp;&lt;div&gt;API КФ&lt;/div&gt;" style="shape=mxgraph.bpmn.data;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;size=15;html=1;" vertex="1" parent="1">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-29" value="Документация&amp;nbsp;&lt;div&gt;API КФ&lt;/div&gt;" style="shape=mxgraph.bpmn.data;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;size=15;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="280" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="EmzVkfAbV9qrxrZt4hye-20" target="EmzVkfAbV9qrxrZt4hye-29">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="EmzVkfAbV9qrxrZt4hye-20" target="EmzVkfAbV9qrxrZt4hye-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="370" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmzVkfAbV9qrxrZt4hye-31" target="EmzVkfAbV9qrxrZt4hye-33">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmzVkfAbV9qrxrZt4hye-31" target="EmzVkfAbV9qrxrZt4hye-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-31" value="Битрикс24: Извлечение данных о к\а" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=service;" vertex="1" parent="1">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-31" value="Битрикс24: Извлечение данных о к\а" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=service;" parent="1" vertex="1">
           <mxGeometry x="330" y="370" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmzVkfAbV9qrxrZt4hye-33" target="EmzVkfAbV9qrxrZt4hye-55">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmzVkfAbV9qrxrZt4hye-33" target="EmzVkfAbV9qrxrZt4hye-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-33" value="Битрикс24: Внесение данных в карточку к\а" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=service;" vertex="1" parent="1">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-33" value="Битрикс24: Внесение данных в карточку к\а" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=service;" parent="1" vertex="1">
           <mxGeometry x="530" y="370" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-37" value="" style="html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;rotation=-180;" vertex="1" parent="1">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-37" value="" style="html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="720" y="30" width="50" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-38" value="5 сек." style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=timer;" vertex="1" parent="1">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-38" value="5 сек." style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=timer;" parent="1" vertex="1">
           <mxGeometry x="777" y="215" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-39" value="Битрикс24: Оповещение пользователя об ошибке обработки запроса&amp;nbsp;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;bpmnShapeType=subprocess;isLoopSub=1;outline=eventInt;symbol=error;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-39" value="Битрикс24: Оповещение пользователя об ошибке обработки запроса&amp;nbsp;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;bpmnShapeType=subprocess;isLoopSub=1;outline=eventInt;symbol=error;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="600" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-41" value="Токен&amp;nbsp;&lt;div&gt;получен?&lt;/div&gt;" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="1">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-41" value="Токен&amp;nbsp;&lt;div&gt;получен?&lt;/div&gt;" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" parent="1" vertex="1">
           <mxGeometry x="540" y="155" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EmzVkfAbV9qrxrZt4hye-44" target="EmzVkfAbV9qrxrZt4hye-39">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EmzVkfAbV9qrxrZt4hye-44" target="EmzVkfAbV9qrxrZt4hye-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="360" as="targetPoint" />
             <Array as="points">
@@ -119,23 +119,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-54" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EmzVkfAbV9qrxrZt4hye-52">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-54" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EmzVkfAbV9qrxrZt4hye-52" vertex="1" connectable="0">
           <mxGeometry x="-0.9218" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-44" value="Успешно?" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="1">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-44" value="Успешно?" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" parent="1" vertex="1">
           <mxGeometry x="210" y="385" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EmzVkfAbV9qrxrZt4hye-44" target="EmzVkfAbV9qrxrZt4hye-31">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EmzVkfAbV9qrxrZt4hye-44" target="EmzVkfAbV9qrxrZt4hye-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-51" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EmzVkfAbV9qrxrZt4hye-50">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-51" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EmzVkfAbV9qrxrZt4hye-50" vertex="1" connectable="0">
           <mxGeometry x="-0.0592" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EmzVkfAbV9qrxrZt4hye-55" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" vertex="1" parent="1">
+        <mxCell id="EmzVkfAbV9qrxrZt4hye-55" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" parent="1" vertex="1">
           <mxGeometry x="690" y="385" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
